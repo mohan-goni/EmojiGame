@@ -1,0 +1,25 @@
+.navbar-container {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 100px;
+  margin-bottom: 40px;
+}
+.logo-title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  max-width: 50px;
+}
+.nav-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+.score {
+  gap: 20px;
+}
